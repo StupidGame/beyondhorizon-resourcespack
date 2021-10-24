@@ -1,4 +1,5 @@
 name: "zip resources"
+description: 'zip resources'
 runs: 
   using: "composite"
   steps:
