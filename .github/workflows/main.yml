@@ -16,7 +16,7 @@ jobs:
         git pull
         rm -f release.zip
     - name: Archive Release
-      uses: matsuo877/beyondhorizon-resourcespack@main
+      uses: thedoctor0/zip-release@master
       with:
         filename: 'release.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
