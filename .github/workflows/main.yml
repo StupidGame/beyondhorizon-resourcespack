@@ -10,7 +10,7 @@ jobs:
       uses: actions/checkout@v2
     - name: pull latest and remove old file from repo
       run: |
-        git config --global user.name "matsuo877"
+        git config --global user.name "mc-beyondhorizon"
         git config --global user.email "matsuo877@gmail.com"
         git config pull.rebase false
         git pull

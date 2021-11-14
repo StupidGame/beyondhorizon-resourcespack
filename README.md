@@ -1,1 +1,1 @@
-# beyondhorizon-resourcespack
+# beyondhorizon-resourcepack
